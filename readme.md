@@ -20,16 +20,16 @@ __Focus__
         <td>name</td>
 		<td>=</td>
 		<td>chenzixin</td>
+    <tr>
+        <td>weibo</td>
+        <td>=</td>
+        <td>http://weibo.com/chenzixin</td>
+    </tr>
     </tr>
         <tr>
         <td>blog</td>
         <td>=</td>
         <td>http://chenzixin.sinaapp.com</td>
-    </tr>
-	<tr>
-        <td>weibo</td>
-		<td>=</td>
-		<td>http://weibo.com/chenzixin</td>
     </tr>
 
 </table>
