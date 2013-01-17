@@ -5,7 +5,7 @@ Christen
 
 I'm a Progammer in PCgroup.
 
-__focus__
+__Focus__
 
 * Python
 * SEO
