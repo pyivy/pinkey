@@ -24,12 +24,12 @@ __Focus__
         <tr>
         <td>blog</td>
         <td>=</td>
-        <td>'http://chenzixin.sinaapp.com'</td>
+        <td>http://chenzixin.sinaapp.com</td>
     </tr>
 	<tr>
         <td>weibo</td>
 		<td>=</td>
-		<td>'http://weibo.com/chenzixin'</td>
+		<td>http://weibo.com/chenzixin</td>
     </tr>
 
 </table>
