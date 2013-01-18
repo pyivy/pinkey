@@ -8,7 +8,7 @@ import os
 
 u_input =  raw_input("Please enter the act:\n[H]ide or [S]how\n")
 p_title =  raw_input("Please enter the title:\n")
-u_act   = u_input.lower()
+u_act   =  u_input.lower()
 
 if u_act == "h" or u_act == "hide":
 	act = "hide"
