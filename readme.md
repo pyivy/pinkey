@@ -3,9 +3,10 @@
 Christen
 ----
 
-I'm a Progammer of PCgroup in Beijing. 
 
-Try my BEST to keep [WRITING](https://github.com/chenzixin/pinkey/tree/master/log).
+A NEWBIE OF PYTHON IN PCGROUP.
+
+TRY MY BEST TO KEEP [WRITING](https://github.com/chenzixin/pinkey/tree/master/log).
 
 __Focus__
 
