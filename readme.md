@@ -3,9 +3,9 @@
 Christen
 ----
 
-I'm a Progammer in PCgroup. 
+I'm a Progammer of PCgroup in Beijing. 
 
-Try my best to keep [writing](https://github.com/chenzixin/pinkey/tree/master/log).
+Try my BEST to keep [WRITING](https://github.com/chenzixin/pinkey/tree/master/log).
 
 __Focus__
 
