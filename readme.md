@@ -7,7 +7,7 @@ I'm a Progammer in PCgroup.
 
 __Focus__
 
-* Python
+* [Python](https://github.com/chenzixin/pinkey/tree/master/log/python)
 * SEO
 * English
 * Chinese Ancient Civilization
