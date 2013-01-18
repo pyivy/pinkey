@@ -3,7 +3,9 @@
 Christen
 ----
 
-I'm a Progammer in PCgroup.
+I'm a Progammer in PCgroup. 
+
+Try my best to keep [writing](https://github.com/chenzixin/pinkey/tree/master/log).
 
 __Focus__
 
@@ -17,17 +19,17 @@ __Focus__
 
 <table>
     <tr>
-        <td>name</td>
+        <td>姓名</td>
 		<td>=</td>
 		<td>chenzixin</td>
     <tr>
-        <td>weibo</td>
+        <td>微博</td>
         <td>=</td>
         <td>http://weibo.com/chenzixin</td>
     </tr>
     </tr>
         <tr>
-        <td>blog</td>
+        <td>博客</td>
         <td>=</td>
         <td>http://chenzixin.sinaapp.com</td>
     </tr>
