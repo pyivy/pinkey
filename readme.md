@@ -14,6 +14,7 @@ __Focus__
 * Chinese Ancient Civilization
 
 
+__Brief__
 
 
 <table>
