@@ -13,6 +13,7 @@ __Focus__
 * Java
 * ADs
 * HTML5
+* JavaScript
 * SEO
 * English
 * Chinese Ancient Civilization
