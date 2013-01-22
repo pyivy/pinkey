@@ -11,7 +11,7 @@ __Focus__
 
 * [Python](https://github.com/chenzixin/pinkey/tree/master/log/python)
 * Java
-* AD
+* ADs
 * SEO
 * English
 * Chinese Ancient Civilization
