@@ -4,4 +4,7 @@
 
 + easy_install -U Sphinx
 
-+ sphinx-build C:\Django\docs C:\Django-docs 
++ sphinx-build C:\Django\docs C:\Django-docs
+
+
+# PyQT
