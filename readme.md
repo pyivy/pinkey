@@ -11,7 +11,6 @@ __Focus__
 
 * [Python](https://github.com/chenzixin/pinkey/tree/master/log/python)
 * Java
-* ADs
 * HTML5
 * JavaScript
 * SEO
