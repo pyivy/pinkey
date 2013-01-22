@@ -10,6 +10,7 @@ A NEWBIE OF PYTHON IN PCGROUP, TRY MY BEST TO KEEP [WRITING](https://github.com/
 __Focus__
 
 * [Python](https://github.com/chenzixin/pinkey/tree/master/log/python)
+* Java
 * SEO
 * English
 * Chinese Ancient Civilization
