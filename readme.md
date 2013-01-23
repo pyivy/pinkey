@@ -15,7 +15,7 @@ __Focus__
 * JavaScript
 * SEO
 * English
-* Chinese Ancient Civilization
+* CAC
 
 
 __Brief__
