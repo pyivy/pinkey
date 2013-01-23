@@ -12,7 +12,7 @@ __Focus__
 * [Python](https://github.com/chenzixin/pinkey/tree/master/log/python)
 * Java
 * HTML5
-* JavaScript
+* JS
 * SEO
 * English
 * CAC
